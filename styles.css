@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e0ede4; /* Couleur inspirée de ton logo */
+    color: #2f5d50;
+    text-align: center;
+}
+
+header {
+    padding: 20px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #2f5d50;
+    font-weight: bold;
+}
+
+footer {
+    margin-top: 20px;
+    font-size: 14px;
+}
